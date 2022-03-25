@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kon_gift
+- 👋 Hi, I’m @Aphile
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning swift, c#, .net, JavaScript, ms sql server
 - 💞️ I’m looking to collaborate on software development project especially web applications 
